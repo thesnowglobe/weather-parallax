@@ -53,7 +53,7 @@ body {
 
 .layers__item {
   position: absolute;
-  inset: -5vw;
+  inset: -10vw;
   background-size: cover;
   background-position: center;
   transform: rotateX(var(--move-y)) rotateY(var(--move-x));
